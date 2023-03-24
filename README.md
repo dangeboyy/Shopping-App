@@ -1,11 +1,4 @@
-```
-Due Date: 21 .03.2021, 23:
-```
-# CENG 112 - Data Structures
-
-# Assignment 1: The Shopping App
-
-This assignment covers the topics of:
+The Shopping App
 
 ```
 ● Strings
